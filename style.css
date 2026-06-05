@@ -1,0 +1,123 @@
+/* background-color property */
+body {
+    background-color: #F4E4BC;
+
+    /* font-family property */
+    font-family: 'Papyrus', fantasy;
+ background-image: url("leaves.png");
+}
+
+/* color property */
+h1 {
+    color: #5C4033;
+    font-size: 20px;
+}
+h1 {
+    font-size: 36px;
+}
+/* This is
+a multi-line
+comment */
+
+p {
+  color: red;
+}
+
+h2 {
+    color: tomato;
+}
+
+p {
+    color:#3E2723;
+}
+
+#main-title {
+    text-align: center;
+}
+.container {
+  max-width: 1000px;
+}
+div {
+  margin: 0 auto;
+}
+.quest-link {
+    background-color: #5C4033;
+    color: white;
+    padding: 10px;
+    border-radius: 8px;
+    text-decoration: none;
+}
+
+a {
+    color: #5C4033;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+a:hover {
+    color: #8B5A2B;
+}
+
+footer {
+    text-align: center;
+    margin-top: 02px;
+}
+footer p {
+    color: white;
+}
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.content-box {
+    background-color: #fff8e8;
+    border: 3px solid #5C4033;
+    border-radius: 12px;
+    padding: 20px;
+    margin: 20px 0;
+}
+
+.image-box {
+    text-align: center;
+    border: 3px solid #8B5A2B;
+    padding: 15px;
+    margin: 20px 0;
+    background-color: #fff3d6;
+}
+
+.image-box img {
+    max-width: 100%;
+    height: auto;
+}
+
+h2 {
+    border-bottom: 2px solid #5C4033;
+    padding-bottom: 8px;
+}
+
+ol, ul {
+    margin: 15px 0;
+    padding-left: 40px;
+}
+
+footer {
+    background-color: #5C4033;
+    padding: 15px;
+    margin-top: 20px;
+}
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.tab-box {
+    
+    text-align: center;
+     background-color: #fff8e8;
+    border: 3px solid #5C4033;
+    padding: 20px;
+    margin: 20px 0;
+}
